@@ -1,0 +1,15 @@
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/bin/Debug/net7.0/01_Demo
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/bin/Debug/net7.0/01_Demo.deps.json
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/bin/Debug/net7.0/01_Demo.runtimeconfig.json
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/bin/Debug/net7.0/01_Demo.dll
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/bin/Debug/net7.0/01_Demo.pdb
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/01_Demo.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/01_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/01_Demo.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/01_Demo.AssemblyInfo.cs
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/01_Demo.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/01_Demo.dll
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/refint/01_Demo.dll
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/01_Demo.pdb
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/01_Demo.genruntimeconfig.cache
+/Users/stanislav/Desktop/Teaching/OOP_2023/01_Introduction/01_Demo/obj/Debug/net7.0/ref/01_Demo.dll
